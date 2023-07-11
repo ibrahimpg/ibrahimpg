@@ -26,7 +26,7 @@
             <img height="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
             </td>
             <td width="131px" align="center">
-            <span><strong>Node</strong></span><br><br>
+            <span><strong>Express</strong></span><br><br>
             <img height="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
             </td>
             <td width="131px" align="center">
