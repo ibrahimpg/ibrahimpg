@@ -1,4 +1,4 @@
-## :tropical_drink: Hi, I'm Ibrahim Ghalioum! :cocktail:
+## :tropical_drink: Hi, I'm Ibrahim Philip Ghalioum! :cocktail:
 
 #### A Full-Stack Web & Application Developer based in Copenhagen, Denmark
 
