@@ -1,9 +1,5 @@
 ## :tropical_drink: Hi, I'm Ibrahim Philip Ghalioum! :cocktail:
+#### A Full-Stack Web & Application Developer based in Copenhagen
+<img width="600" src="https://raw.githubusercontent.com/ibrahimpg/ibrahimpg/main/blue-campers.png">
 
-#### A Full-Stack Web & Application Developer based in Copenhagen, Denmark
-
-<img width="600" src="https://raw.githubusercontent.com/ibrahimpg/ibrahimpg/main/blue.png">
-
-I build full stack applications and scripts for [Watkyn](https://watkyn.com/)
-<br>
-You can learn more about me on my [website](https://ibrahimpg.com)
+##### I build a lot of software for [Watkyn](https://watkyn.com/). You can learn more about me on my [website](https://ibrahimpg.com).
